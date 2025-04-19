@@ -3,16 +3,7 @@
 <Abstract>
  In recent years, environmental issues have been rapidly advancing. In order to catch up and cope with that, it is necessary to raise awareness from an early age. So, I developed “Pip&Forest” which allows children to learn about the importance of reforestation and conservation through a memorable experience with Fluent Emojis. 
 
-<Used content that I don‘t have ownership rights.>
-
-1.Fluent Emoji
-I used several Fluent Emoji of Microsoft Corporation as 3D visual elements of “Pip&Forest”.
-
-2.A Sound effect purchased from Audiostock Inc.
- I have used a sound effect “No.383579 Forest, Africa Africa_ Day Environment, Birds, Insects” purchased from Audiostock as a sound effect in the App in accordance with the terms of use of the work as specified by Audiostock Inc.
-
 <Outline>
-
  I pursued a user experience that would allow children to naturally understand the role of forests and step into the process of restoring and maintaining them, as if they were reading an illustrated story book. To achieve this, SwiftUI was the best choice. While SpriteKit or SceneKit are normally suitable for simulation apps, I dared not to implement them in order to recreate the picture book feel on the “Pip&Forest”. This is because the role of “Pip&Forest” is not to complete the child’s reforestation experience with a ultra realistic simulation, but rather to motivate them to take positive action in the real world, such as participating in tree planting volunteer activities, based on an accurate awareness of the issue.
  
  Also, I made the most of AVFoundation to add a read-aloud function to the story or to give the dynamic sound effects made with GarageBand to the gestures. Similarly, I added a function to play the sounds of the forest so that children can learn aurally. Thanks to the AVFoundation, children can understand and play the “Pip&Forest” easily even if they cannot read the text well.
@@ -21,3 +12,10 @@ I used several Fluent Emoji of Microsoft Corporation as 3D visual elements of �
  I combined these powerful frameworks with the Fluent Emoji.The result is a truly special app that exceeds the boundaries of a picture book. 
 
  As AI tools, I used Genmoji to help children recognize the role of forests at a glance. Then, I generated images of sparkle background and a lovely character on Image Playground. Otherwise, I asked question to the ChatGPT about how to improve maintainability and debug. Also, I asked it to analyze and point out areas for improvement to ensure that the UI is easy to operate even for preschool children. 
+
+<Used content that I don‘t have ownership rights.>
+1.Fluent Emoji
+I used several Fluent Emoji of Microsoft Corporation as 3D visual elements of “Pip&Forest”.
+
+2.A Sound effect purchased from Audiostock Inc.
+ I have used a sound effect “No.383579 Forest, Africa Africa_ Day Environment, Birds, Insects” purchased from Audiostock as a sound effect in the App in accordance with the terms of use of the work as specified by Audiostock Inc.
