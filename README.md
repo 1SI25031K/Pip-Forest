@@ -6,7 +6,7 @@
 
 - AVFoundation: I made the most of AVFoundation to add a read-aloud function to the story or to give the dynamic sound effects made with GarageBand to the gestures. Similarly, I added a function to play the sounds of the forest so that children can learn aurally. Thanks to the AVFoundation, children can understand and play the “Pip&Forest” easily even if they cannot read the text well.
 
-- PencilKit: I adopted PencilKit to provide a canvas and a variety of tools that allow the  imagination to run wild and redraw as many times as inspiration occurs. This brings the  “Pip&Forest” a flexibility unique to apps, which is unimaginable with picture books made from paper. I combined these powerful frameworks with the Fluent Emoji.The result is a truly special app that exceeds the boundaries of a picture book. 
+- PencilKit: I adopted PencilKit to provide a canvas and a variety of tools that allow the  imagination to run wild and redraw as many times as inspiration occurs. This brings the  “Pip&Forest” a flexibility unique to apps, which is unimaginable with picture books made from paper. 
 
 - AI tools: I used Genmoji to help children recognize the role of forests at a glance. Then, I generated images of sparkle background and a lovely character on Image Playground. Otherwise, I asked question to the ChatGPT about how to improve maintainability and debug. Also, I asked it to analyze and point out areas for improvement to ensure that the UI is easy to operate even for preschool children. 
 
