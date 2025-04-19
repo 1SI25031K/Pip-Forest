@@ -9,8 +9,7 @@
 I used several Fluent Emoji as 3D visual elements of “Pip&Forest”.
 
 2.A Sound effect purchased from Audiostock Inc.
- I have used a sound effect “No.383579 Forest, Africa Africa_ Day Environment, Birds, Insects” purchased from Audiostock as a sound effect in the App in accordance with the terms of use of the work as specified by Audiostock Inc.The URL of the site I purchased is shown below
-：https://audiostock.jp/audio/383579
+ I have used a sound effect “No.383579 Forest, Africa Africa_ Day Environment, Birds, Insects” purchased from Audiostock as a sound effect in the App in accordance with the terms of use of the work as specified by Audiostock Inc.
 
 <Outline>
  I pursued a user experience that would allow children to naturally understand the role of forests and step into the process of restoring and maintaining them, as if they were reading an illustrated story book. To achieve this, SwiftUI was the best choice. While SpriteKit or SceneKit are normally suitable for simulation apps, I dared not to implement them in order to recreate the picture book feel on the “Pip&Forest”. This is because the role of “Pip&Forest” is not to complete the child’s reforestation experience with a ultra realistic simulation, but rather to motivate them to take positive action in the real world, such as participating in tree planting volunteer activities, based on an accurate awareness of the issue.
